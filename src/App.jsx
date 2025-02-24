@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div style="background-color: #530fe6;">
-        <h1> Experience</h1>
+        <h1> Experiences</h1>
          <i class="fa-brands fa-tiktok"></i>
     </div>
     <div>
